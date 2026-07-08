@@ -29,7 +29,7 @@
 - ✅ **Key 不存、不记日志、用完即弃**
 - ✅ 测的是你**正在用的那家**,不是我家——谁降智一测露馅
 
-### 2. 命令行版 · 可审计 —— [LLMprobe](https://github.com/oncesylvia/LLMprobe)(开源)
+### 2. 命令行版 · 可审计 —— [LLMprobe](https://github.com/cocodot2026/LLMprobe)(开源)
 同一套探针的开源 CLI,适合想看源码、想批量测、想接 CI 的人:
 
 ```bash
@@ -57,4 +57,4 @@ Key 只在本机用,代码开源可审计。
 
 ---
 
-*检测工具 [probe.cocodot.co](https://probe.cocodot.co)(网页)/ [LLMprobe](https://github.com/oncesylvia/LLMprobe)(开源 CLI)均免费。作者与 cocodot 利益相关,已声明。欢迎 Issue 纠错。*
+*检测工具 [probe.cocodot.co](https://probe.cocodot.co)(网页)/ [LLMprobe](https://github.com/cocodot2026/LLMprobe)(开源 CLI)均免费。作者与 cocodot 利益相关,已声明。欢迎 Issue 纠错。*
