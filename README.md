@@ -57,4 +57,18 @@ Key 只在本机用,代码开源可审计。
 
 ---
 
+## 🧰 配套开源工具箱（都免费开源、可自测）
+
+一条龙，谁都能跑：
+
+- **[relay-doctor](https://github.com/cocodot2026/relay-doctor)** —— 一条命令体检任意中转（连通 / 模型 / 延迟 / 流式），零依赖
+- **[LLMprobe](https://github.com/cocodot2026/LLMprobe)** —— 验降智：6 探针打分，key 不落库
+- **[ai-api-cost](https://github.com/cocodot2026/ai-api-cost)** —— 诚实成本估算，数真 token × 你填的费率（不猜价）
+- **[ccsetup](https://github.com/cocodot2026/ccsetup)** —— 一键配好 Claude Code 环境变量并冒烟测试
+- **[ai-coding-from-china](https://github.com/cocodot2026/ai-coding-from-china)** —— 完整方法（Claude Code Skill）
+
+顺序：`relay-doctor`（活着吗）→ `LLMprobe`（真模型吗）→ `ai-api-cost`（多少钱）→ `ccsetup`（接进 Claude Code）。
+
+---
+
 *检测工具 [probe.cocodot.co](https://probe.cocodot.co)(网页)/ [LLMprobe](https://github.com/cocodot2026/LLMprobe)(开源 CLI)均免费。作者与 cocodot 利益相关,已声明。欢迎 Issue 纠错。*
